@@ -1,7 +1,3 @@
-Got it — here’s a **clean, simple, professional README** in one go, no screenshots, ready to paste as `README.md` in your project root:
-
----
-
 ```markdown
 # Chat App
 
